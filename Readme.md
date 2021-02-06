@@ -22,6 +22,6 @@ Email:
 
 For the project assignment, please read:
 
-    MatrixMultplicationProgramsingProject.pdf
+    HH-ProgrammingProject.pdf
 
     HH-ProgrammingProjectTest.pdf
